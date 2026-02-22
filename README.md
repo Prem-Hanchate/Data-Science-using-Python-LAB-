@@ -149,24 +149,6 @@ Before running the experiments, ensure you have:
 
 ## 💻 Usage
 
-### Running Python Scripts
-
-Navigate to the experiment folder and run the Python file:
-
-```bash
-# For Experiment 1
-cd EXP1
-python EXP1.py
-
-# For Experiment 2
-cd EXP2
-python EXP2.py
-
-# For Experiment 3
-cd EXP3
-python EXP3.py
-```
-
 ### Running Jupyter Notebooks
 
 ```bash
@@ -183,41 +165,6 @@ Each experiment folder contains a `demo.py` file for quick demonstrations:
 ```bash
 cd EXP1
 python demo.py
-```
-
-## 📂 Repository Structure
-
-```
-Data-Science-using-Python-LAB-/
-│
-├── EXP1/                          # Experiment 1: Data Analysis Fundamentals
-│   ├── .vscode/
-│   ├── EXP1.py
-│   ├── demo.py
-│   └── Sample_Aadhar_Enrollment_Dataset.xlsx
-│
-├── EXP2/                          # Experiment 2: Data Visualization
-│   ├── .vscode/
-│   ├── EXP2.py
-│   ├── demo.py
-│   ├── DOC.ipynb
-│   ├── Sample_Aadhar_Enrollment_Dataset.xlsx
-│   ├── EXP2 (Bar Chart Visualizations Created).docx
-│   └── Image/
-│       ├── bar_charts_by_state.png
-│       ├── box_plots_distribution.png
-│       ├── box_plot_overall_analysis.png
-│       └── top_10_districts_bar_chart.png
-│
-├── EXP3/                          # Experiment 3: Exploring Pandas Library
-│   ├── .vscode/
-│   ├── EXP3.py
-│   ├── Aadhar_Enrollment_Data.csv
-│   ├── Aadhar_Enrollment_Output.xlsx
-│   ├── Sample_Aadhar_Enrollment_Dataset.xlsx
-│   └── EXP3 (Data Exploration).docx
-│
-└── README.md                      # This file
 ```
 
 ## 🤝 Contributing
