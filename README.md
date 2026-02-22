@@ -2,19 +2,6 @@
 
 Welcome to the Data Science using Python Laboratory repository! This repository contains practical experiments and implementations covering various aspects of data science, data analysis, and visualization using Python.
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Experiments](#experiments)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Repository Structure](#repository-structure)
-- [Contributing](#contributing)
-- [Author](#author)
-
 ## 📖 About
 
 This repository contains hands-on laboratory experiments for the Data Science using Python course. Each experiment focuses on different concepts and techniques in data science, including data manipulation, analysis, visualization, and machine learning fundamentals.
