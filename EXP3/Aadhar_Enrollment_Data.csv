@@ -1,0 +1,100 @@
+Date,State,district,pincode,age_0_5,age_5_17,age_18_greater
+2025-02-03 00:00:00,Meghalaya,East Khasi Hills,793121.0,11.0,61.0,37.0
+2025-09-03 00:00:00,Karnataka,Bengaluru Urban,560043.0,14.0,33.0,39.0
+2025-09-03 00:00:00,Uttar Pradesh,Kanpur Nagar,208001.0,29.0,82.0,12.0
+2025-09-03 00:00:00,Uttar Pradesh,Aligarh,202133.0,62.0,29.0,15.0
+2025-09-03 00:00:00,Karnataka,Bengaluru Urban,560016.0,14.0,16.0,21.0
+2025-09-03 00:00:00,Karnataka,Sitamarhi,843331.0,20.0,49.0,12.0
+2025-09-03 00:00:00,Uttar Pradesh,Sitamarhi,843330.0,23.0,24.0,42.0
+2025-09-03 00:00:00,Uttar Pradesh,Bahraich,,26.0,,14.0
+2025-09-03 00:00:00,Uttar Pradesh,Firozabad,,28.0,26.0,10.0
+2025-09-03 00:00:00,Bihar,Purbi Champaran,845418.0,30.0,48.0,10.0
+2025-09-03 00:00:00,Uttar Pradesh,Maharajganj,,31.0,70.0,13.0
+2025-09-03 00:00:00,Bihar,Sitamarhi,843317.0,35.0,94.0,16.0
+2025-09-03 00:00:00,Maharashtra,Aurangabad,431001.0,42.0,46.0,12.0
+2025-09-03 00:00:00,Bihar,Sitamarhi,843324.0,,186.0,34.0
+2025-09-03 00:00:00,,Ghaziabad,201102.0,50.0,113.0,11.0
+2025-09-03 00:00:00,Haryana,Faridabad,121004.0,80.0,60.0,10.0
+2025-09-03 00:00:00,Karnataka,Bengaluru Urban,,14.0,17.0,35.0
+2025-09-03 00:00:00,Bihar,Madhubani,847108.0,18.0,120.0,
+2025-09-03 00:00:00,Karnataka,Bengaluru Urban,560032.0,,,10.0
+2025-09-03 00:00:00,Rajasthan,Sikar,332001.0,41.0,36.0,17.0
+2025-09-03 00:00:00,Bihar,Bhagalpur,,13.0,,18.0
+2025-09-03 00:00:00,Punjab,Amritsar,143001.0,14.0,15.0,
+2025-09-03 00:00:00,Haryana,Gurugram,122001.0,18.0,19.0,13.0
+2025-09-03 00:00:00,Uttar Pradesh,Gautam Buddha Nagar,201301.0,,249.0,16.0
+2025-09-03 00:00:00,Delhi,West Delhi,110018.0,,,15.0
+2025-09-03 00:00:00,Madhya Pradesh,Bhind,,37.0,18.0,
+2025-09-03 00:00:00,Madhya Pradesh,Gwalior,475110.0,42.0,14.0,14.0
+2025-09-03 00:00:00,Madhya Pradesh,Katni,483501.0,53.0,42.0,11.0
+2025-09-03 00:00:00,Delhi,West Delhi,110059.0,,42.0,
+2025-09-03 00:00:00,Bihar,Purbi Champaran,845304.0,18.0,,12.0
+2025-09-03 00:00:00,West Bengal,Coochbehar,736135.0,19.0,12.0,19.0
+2025-09-03 00:00:00,Uttar Pradesh,Lucknow,,23.0,102.0,17.0
+2025-09-03 00:00:00,West Bengal,Dinajpur Uttar,733129.0,26.0,18.0,27.0
+15-03-2025,Assam,Marigaon,782104.0,10.0,11.0,46.0
+15-03-2025,Assam,Kokrajhar,783350.0,10.0,16.0,18.0
+15-03-2025,Uttar Pradesh,Agra,282005.0,10.0,66.0,17.0
+15-03-2025,Uttarakhand,Haridwar,247667.0,17.0,15.0,28.0
+15-03-2025,Uttar Pradesh,,,33.0,125.0,16.0
+15-03-2025,Uttar Pradesh,Ghaziabad,,14.0,30.0,13.0
+15-03-2025,Assam,Nagaon,782124.0,19.0,15.0,22.0
+15-03-2025,Delhi,West Delhi,110059.0,24.0,34.0,18.0
+15-03-2025,Uttar Pradesh,Gautam Buddha Nagar,201301.0,43.0,132.0,24.0
+15-03-2025,Uttar Pradesh,,273164.0,12.0,55.0,12.0
+15-03-2025,Maharashtra,Parbhani,431401.0,17.0,14.0,37.0
+15-03-2025,Uttar Pradesh,Ghaziabad,,19.0,146.0,30.0
+15-03-2025,Assam,Marigaon,782105.0,26.0,16.0,140.0
+15-03-2025,Meghalaya,,793119.0,34.0,10.0,148.0
+15-03-2025,Bihar,Purbi Champaran,845303.0,12.0,121.0,13.0
+15-03-2025,Assam,Marigaon,782127.0,12.0,16.0,20.0
+15-03-2025,Uttar Pradesh,Gautam Buddha Nagar,201009.0,20.0,37.0,18.0
+15-03-2025,Bihar,Sitamarhi,843324.0,22.0,89.0,44.0
+15-03-2025,Assam,Kokrajhar,783360.0,25.0,23.0,10.0
+15-03-2025,Delhi,North West Delhi,110086.0,35.0,15.0,10.0
+15-03-2025,Uttar Pradesh,,282001.0,38.0,123.0,21.0
+15-03-2025,Meghalaya,West Jaintia Hills,793150.0,92.0,17.0,30.0
+15-03-2025,Uttar Pradesh,Agra,282010.0,10.0,49.0,19.0
+15-03-2025,Uttar Pradesh,Ghaziabad,201002.0,13.0,57.0,19.0
+15-03-2025,Bihar,Madhubani,847421.0,15.0,54.0,15.0
+15-03-2025,Uttar Pradesh,Unnao,209801.0,17.0,95.0,18.0
+15-03-2025,Bihar,,843331.0,20.0,28.0,15.0
+15-03-2025,Uttar Pradesh,Saharanpur,,91.0,152.0,10.0
+20-03-2025,Assam,Dibrugarh,786602.0,10.0,12.0,14.0
+20-03-2025,Assam,Udalguri,,10.0,46.0,34.0
+20-03-2025,Assam,Chirang,783390.0,12.0,29.0,15.0
+20-03-2025,Assam,Kamrup,781354.0,13.0,20.0,13.0
+20-03-2025,Assam,Dhubri,,15.0,51.0,12.0
+20-03-2025,Uttar Pradesh,Jaunpur,222001.0,19.0,103.0,29.0
+20-03-2025,Maharashtra,Thane,421503.0,19.0,13.0,15.0
+20-03-2025,Karnataka,Bengaluru Urban,560037.0,20.0,16.0,17.0
+20-03-2025,Assam,Dhemaji,787057.0,20.0,46.0,19.0
+20-03-2025,Uttar Pradesh,Agra,283125.0,25.0,29.0,12.0
+20-03-2025,Assam,Kokrajhar,783360.0,32.0,75.0,29.0
+20-03-2025,Gujarat,Banas Kantha,385545.0,37.0,11.0,15.0
+20-03-2025,Bihar,Sitamarhi,843324.0,41.0,55.0,30.0
+20-03-2025,Karnataka,Bengaluru Urban,560068.0,56.0,20.0,16.0
+20-03-2025,Uttar Pradesh,Firozabad,283203.0,65.0,51.0,11.0
+20-03-2025,Madhya Pradesh,Gwalior,474001.0,73.0,25.0,18.0
+20-03-2025,Uttar Pradesh,Agra,282001.0,96.0,125.0,11.0
+20-03-2025,Maharashtra,Aurangabad,431001.0,134.0,38.0,18.0
+20-03-2025,Assam,Dhubri,783348.0,11.0,115.0,37.0
+20-03-2025,Assam,Tinsukia,786156.0,12.0,32.0,21.0
+20-03-2025,Andhra Pradesh,Spsr Nellore,524311.0,15.0,19.0,17.0
+20-03-2025,Karnataka,Bengaluru Urban,560035.0,16.0,10.0,13.0
+20-03-2025,Uttar Pradesh,Unnao,209821.0,17.0,41.0,15.0
+20-03-2025,Assam,Marigaon,782104.0,20.0,58.0,10.0
+20-03-2025,Assam,Barpeta,783101.0,24.0,34.0,10.0
+20-03-2025,Assam,Kokrajhar,783350.0,24.0,55.0,23.0
+20-03-2025,Karnataka,Bengaluru Urban,560036.0,28.0,12.0,13.0
+20-03-2025,Assam,Dhubri,783334.0,31.0,37.0,25.0
+20-03-2025,Gujarat,Banas Kantha,385310.0,78.0,32.0,13.0
+20-03-2025,Bihar,Sitamarhi,843330.0,10.0,12.0,19.0
+20-03-2025,Assam,Sonitpur,784110.0,10.0,28.0,43.0
+20-03-2025,Assam,Baksa,,11.0,14.0,13.0
+20-03-2025,Assam,Tinsukia,786152.0,18.0,25.0,11.0
+20-03-2025,Assam,Tinsukia,786151.0,19.0,24.0,19.0
+20-03-2025,Uttar Pradesh,Bahraich,271855.0,20.0,62.0,13.0
+20-03-2025,Gujarat,Banas Kantha,385330.0,47.0,11.0,25.0
+20-03-2025,Karnataka,Bengaluru Urban,560043.0,49.0,16.0,28.0
+20-03-2025,Punjab,Ludhiana,141007.0,104.0,13.0,14.0
