@@ -4,180 +4,94 @@ Welcome to the Data Science using Python Laboratory repository! This repository 
 
 ## 📖 About
 
-This repository contains hands-on laboratory experiments for the Data Science using Python course. Each experiment focuses on different concepts and techniques in data science, including data manipulation, analysis, visualization, and machine learning fundamentals.
+Hands-on laboratory experiments for Data Science using Python. Each experiment covers key concepts in data analysis, visualization, and machine learning using the **Aadhar Enrollment Dataset**.
 
-The experiments use the **Aadhar Enrollment Dataset** as a common dataset to demonstrate various data science operations and techniques.
+## 🧪 Experiments Overview
 
-## 🧪 Experiments
+| Exp No. | Title | Folder | Key Topics | Main Files |
+|---------|-------|--------|------------|------------|
+| **1** | **Data Analysis Fundamentals** | `EXP1/` | Data loading, DataFrame basics, Descriptive statistics, Missing value handling | `EXP1.py`, `demo.py` |
+| **2** | **Data Visualization** | `EXP2/` | Bar charts, Box plots, Matplotlib, Data visualization | `EXP2.py`, `DOC.ipynb`, `demo.py`, `Image/` |
+| **3** | **Exploring Pandas Library** | `EXP3/` | Data I/O (CSV/Excel), DataFrame operations, Data transformation, Statistical functions | `EXP3.py` |
 
-### Experiment 1: Data Analysis Fundamentals
-**📁 Folder:** `EXP1/`
+### Experiment Details
 
-**Topics Covered:**
-- Reading data from Excel files using Pandas
-- Understanding DataFrame structure and shape
-- Generating descriptive statistics
-- Dataset information and data types
-- Identifying and handling missing values
-- Data imputation using mean values
+#### 📊 Experiment 1: Data Analysis Fundamentals
+- Load Excel data using Pandas
+- Understand DataFrame shape and structure
+- Generate descriptive statistics
+- Handle missing values with mean imputation
 
-**Key Files:**
-- `EXP1.py` - Main implementation
-- `demo.py` - Demo script
-- `Sample_Aadhar_Enrollment_Dataset.xlsx` - Dataset
-
-**Learning Outcomes:**
-- Load and inspect datasets
-- Understand basic data properties
-- Handle missing data effectively
-
----
-
-### Experiment 2: Data Visualization
-**📁 Folder:** `EXP2/`
-
-**Topics Covered:**
-- Creating bar charts with Matplotlib
-- Grouped bar charts for multiple categories
-- Box plots for distribution analysis
-- Statistical visualizations
-- Saving plots as image files
-- Data-driven storytelling through visualizations
-
-**Key Files:**
-- `EXP2.py` - Main implementation
-- `DOC.ipynb` - Jupyter Notebook with visualizations
-- `demo.py` - Demo script
-- `Image/` - Generated visualization images
-  - `bar_charts_by_state.png`
-  - `box_plots_distribution.png`
-  - `box_plot_overall_analysis.png`
-  - `top_10_districts_bar_chart.png`
-
-**Learning Outcomes:**
-- Create various types of charts and plots
+#### 📈 Experiment 2: Data Visualization  
+- Create bar charts and box plots
 - Visualize data distributions
-- Compare categorical data
-- Export visualizations for reports
+- Generate grouped charts for comparison
+- Export visualizations as images
 
----
+#### 🔧 Experiment 3: Exploring Pandas Library
+- Perform data I/O operations (CSV, Excel)
+- Manipulate and transform DataFrames
+- Apply statistical and aggregation functions
+- Export processed data
 
-### Experiment 3: Exploring Pandas Library
-**📁 Folder:** `EXP3/`
-
-**Topics Covered:**
-- Data I/O operations (CSV, Excel)
-- DataFrame manipulation and operations
-- Data selection and filtering
-- Sorting and grouping data
-- Statistical operations
-- Data aggregation and transformation
-- Advanced Pandas functions
-
-**Key Files:**
-- `EXP3.py` - Main implementation
-- `Aadhar_Enrollment_Data.csv` - CSV output
-- `Aadhar_Enrollment_Output.xlsx` - Processed Excel output
-- `Sample_Aadhar_Enrollment_Dataset.xlsx` - Input dataset
-
-**Learning Outcomes:**
-- Master Pandas DataFrame operations
-- Perform data transformations
-- Apply statistical functions
-- Export data in various formats
-
----
-
-### 🔜 Future Experiments
-
-This repository will be updated with more experiments covering:
-- Machine Learning Algorithms
-- Statistical Analysis
-- Data Preprocessing Techniques
-- Feature Engineering
-- Model Evaluation
-- And more...
+### 🔜 Coming Soon
+More experiments on Machine Learning, Statistical Analysis, Feature Engineering, and Model Evaluation.
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x** - Programming Language
-- **Pandas** - Data manipulation and analysis
-- **NumPy** - Numerical computing
-- **Matplotlib** - Data visualization
-- **Jupyter Notebook** - Interactive computing
-- **openpyxl** - Excel file operations
+| Technology | Purpose |
+|------------|---------|
+| Python 3.x | Programming Language |
+| Pandas | Data manipulation and analysis |
+| NumPy | Numerical computing |
+| Matplotlib | Data visualization |
+| Jupyter Notebook | Interactive computing |
+| openpyxl | Excel file operations |
 
 ## 🚀 Getting Started
 
-### Prerequisites
+**Prerequisites:** Python 3.7+, pip
 
-Before running the experiments, ensure you have:
+**Installation:**
 
-- Python 3.7 or higher installed
-- pip (Python package manager)
-- Basic understanding of Python programming
-- Familiarity with data structures
+```bash
+# Clone the repository
+git clone https://github.com/Prem-Hanchate/Data-Science-using-Python-LAB-.git
+cd Data-Science-using-Python-LAB-
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Prem-Hanchate/Data-Science-using-Python-LAB-.git
-   cd Data-Science-using-Python-LAB-
-   ```
-
-2. **Create a virtual environment (recommended):**
-   ```bash
-   python -m venv venv
-   
-   # On Windows
-   venv\Scripts\activate
-   
-   # On macOS/Linux
-   source venv/bin/activate
-   ```
-
-3. **Install required packages:**
-   ```bash
-   pip install pandas numpy matplotlib openpyxl jupyter
-   ```
-
-   Or use requirements file if available:
-   ```bash
-   pip install -r requirements.txt
-   ```
+# Install required packages
+pip install pandas numpy matplotlib openpyxl jupyter
+```
 
 ## 💻 Usage
 
-### Running Jupyter Notebooks
-
+**Run Python Scripts:**
 ```bash
-# Start Jupyter Notebook
-jupyter notebook
-
-# Navigate to the experiment folder and open the .ipynb file
+cd EXP1          # Navigate to experiment folder
+python EXP1.py   # Run the main script
 ```
 
-### Running Demo Files
-
-Each experiment folder contains a `demo.py` file for quick demonstrations:
-
+**Run Jupyter Notebooks:**
 ```bash
-cd EXP1
-python demo.py
+jupyter notebook  # Start Jupyter
+# Open DOC.ipynb in the browser
+```
+
+**Quick Demo:**
+```bash
+python demo.py   # Run demo file in any experiment folder
 ```
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Prem-Hanchate/Data-Science-using-Python-LAB-/issues).
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-### How to Contribute:
-
+**Steps:**
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+2. Create feature branch (`git checkout -b feature/NewFeature`)
+3. Commit changes (`git commit -m 'Add NewFeature'`)
+4. Push to branch (`git push origin feature/NewFeature`)
+5. Open Pull Request
 
 ## 👤 Author
 
@@ -188,16 +102,10 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📝 License
 
-This project is for educational purposes as part of the Data Science using Python Laboratory course.
-
-## 📧 Contact
-
-For any queries or suggestions, feel free to reach out through GitHub issues or contact the repository owner.
+Educational purposes - Data Science using Python Laboratory course.
 
 ---
 
-⭐ **If you find this repository helpful, please consider giving it a star!** ⭐
-
----
+⭐ **Star this repository if you find it helpful!** ⭐
 
 *Last Updated: February 2026*
