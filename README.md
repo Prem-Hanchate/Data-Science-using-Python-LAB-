@@ -13,6 +13,7 @@ Hands-on laboratory experiments for Data Science using Python. Each experiment c
 | **1** | **Data Analysis Fundamentals** | `EXP1/` | Data loading, DataFrame basics, Descriptive statistics, Missing value handling | `EXP1.py`, `demo.py` |
 | **2** | **Data Visualization** | `EXP2/` | Bar charts, Box plots, Matplotlib, Data visualization | `EXP2.py`, `DOC.ipynb`, `demo.py`, `Image/` |
 | **3** | **Exploring Pandas Library** | `EXP3/` | Data I/O (CSV/Excel), DataFrame operations, Data transformation, Statistical functions | `EXP3.py` |
+| **4** | **Advanced Visualizations** | `EXP4/` | Histograms, Scatter plots, Correlation heatmap, Seaborn, Statistical distributions | `EXP4.py`, `EXP4.ipynb`, `*.png` |
 
 ### Experiment Details
 
@@ -34,6 +35,12 @@ Hands-on laboratory experiments for Data Science using Python. Each experiment c
 - Apply statistical and aggregation functions
 - Export processed data
 
+#### 📉 Experiment 4: Advanced Visualizations
+- Create histograms for distribution analysis
+- Generate scatter plots for relationship exploration
+- Build correlation heatmaps using Seaborn
+- Analyze statistical patterns in data
+
 ### 🔜 Coming Soon
 More experiments on Machine Learning, Statistical Analysis, Feature Engineering, and Model Evaluation.
 
@@ -45,6 +52,7 @@ More experiments on Machine Learning, Statistical Analysis, Feature Engineering,
 | Pandas | Data manipulation and analysis |
 | NumPy | Numerical computing |
 | Matplotlib | Data visualization |
+| Seaborn | Statistical data visualization |
 | Jupyter Notebook | Interactive computing |
 | openpyxl | Excel file operations |
 
@@ -60,7 +68,7 @@ git clone https://github.com/Prem-Hanchate/Data-Science-using-Python-LAB-.git
 cd Data-Science-using-Python-LAB-
 
 # Install required packages
-pip install pandas numpy matplotlib openpyxl jupyter
+pip install pandas numpy matplotlib seaborn openpyxl jupyter
 ```
 
 ## 💻 Usage
