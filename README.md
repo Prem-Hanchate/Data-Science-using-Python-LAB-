@@ -4,7 +4,7 @@ Welcome to the Data Science using Python Laboratory repository! This repository 
 
 ## 📖 About
 
-Hands-on laboratory experiments for Data Science using Python. Each experiment covers key concepts in data analysis, visualization, and machine learning using the **Aadhar Enrollment Dataset**.
+Hands-on laboratory experiments for Data Science using Python. The experiments cover key concepts in data analysis, visualization, clustering, and machine learning using datasets such as **Aadhar Enrollment** and **Wine**.
 
 ## 🧪 Experiments Overview
 
@@ -14,6 +14,7 @@ Hands-on laboratory experiments for Data Science using Python. Each experiment c
 | **2** | **Data Visualization** | `EXP2/` | Bar charts, Box plots, Matplotlib, Data visualization | `EXP2.py`, `DOC.ipynb`, `demo.py`, `Image/` |
 | **3** | **Exploring Pandas Library** | `EXP3/` | Data I/O (CSV/Excel), DataFrame operations, Data transformation, Statistical functions | `EXP3.py` |
 | **4** | **Advanced Visualizations** | `EXP4/` | Histograms, Scatter plots, Correlation heatmap, Seaborn, Statistical distributions | `EXP4.py`, `EXP4.ipynb`, `*.png` |
+| **5** | **Hybrid Unsupervised + Supervised Learning (Wine Data)** | `EXP5/` | K-Means clustering, PCA, Label generation, Random Forest classification, Model evaluation | `EXP5.py`, `exp5.ipynb`, `wine-clustering.csv`, `wine-supervised.csv` |
 
 ### Experiment Details
 
@@ -41,8 +42,16 @@ Hands-on laboratory experiments for Data Science using Python. Each experiment c
 - Build correlation heatmaps using Seaborn
 - Analyze statistical patterns in data
 
+#### 🍷 Experiment 5: Hybrid Unsupervised + Supervised Learning
+- Apply K-Means clustering to discover 3 wine groups
+- Use the Elbow Method to validate cluster selection
+- Visualize clusters in 2D using PCA with centroids
+- Convert discovered clusters into supervised labels
+- Train and evaluate a Random Forest classifier
+- Generate confusion matrix, classification report, and labeled output dataset
+
 ### 🔜 Coming Soon
-More experiments on Machine Learning, Statistical Analysis, Feature Engineering, and Model Evaluation.
+More experiments on advanced ML, hypothesis testing, feature engineering, and model evaluation.
 
 ## 🛠️ Technologies Used
 
@@ -53,6 +62,7 @@ More experiments on Machine Learning, Statistical Analysis, Feature Engineering,
 | NumPy | Numerical computing |
 | Matplotlib | Data visualization |
 | Seaborn | Statistical data visualization |
+| scikit-learn | Clustering, preprocessing, model training, evaluation |
 | Jupyter Notebook | Interactive computing |
 | openpyxl | Excel file operations |
 
@@ -116,4 +126,4 @@ Educational purposes - Data Science using Python Laboratory course.
 
 ⭐ **Star this repository if you find it helpful!** ⭐
 
-*Last Updated: February 2026*
+*Last Updated: April 2026*
