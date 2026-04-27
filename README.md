@@ -15,6 +15,7 @@ Hands-on laboratory experiments for Data Science using Python. The experiments c
 | **3** | **Exploring Pandas Library** | `EXP3/` | Data I/O (CSV/Excel), DataFrame operations, Data transformation, Statistical functions | `EXP3.py` |
 | **4** | **Advanced Visualizations** | `EXP4/` | Histograms, Scatter plots, Correlation heatmap, Seaborn, Statistical distributions | `EXP4.py`, `EXP4.ipynb`, `*.png` |
 | **5** | **Hybrid Unsupervised + Supervised Learning (Wine Data)** | `EXP5/` | K-Means clustering, PCA, Label generation, Random Forest classification, Model evaluation | `EXP5.py`, `exp5.ipynb`, `wine-clustering.csv`, `wine-supervised.csv` |
+| **6** | **Hypothesis Testing (Interactive HTML)** | `EXP6/` | Two-tailed Z-test interpretation, sample data comparison, interactive topic selection, frontend data presentation | `hypothesis_testing_topics.html`, `sample_data_3_topics.html` |
 
 ### Experiment Details
 
@@ -50,8 +51,20 @@ Hands-on laboratory experiments for Data Science using Python. The experiments c
 - Train and evaluate a Random Forest classifier
 - Generate confusion matrix, classification report, and labeled output dataset
 
+#### 🧪 Experiment 6: Hypothesis Testing (Interactive HTML)
+- Presents hypothesis testing outputs in an interactive, table-based format
+- Includes topic-wise results for:
+	- Sleep and memory recall
+	- Fertilizer and crop yield
+	- Noise-cancelling headphones and focus
+- Provides sample datasets and summary statistics for control vs experiment groups
+- Uses a dark, gradient-based responsive UI for improved readability
+- Main files:
+	- `EXP6/hypothesis_testing_topics.html` (results and decisions)
+	- `EXP6/sample_data_3_topics.html` (sample data and group-wise statistics)
+
 ### 🔜 Coming Soon
-More experiments on advanced ML, hypothesis testing, feature engineering, and model evaluation.
+More experiments on advanced ML, feature engineering, and model evaluation.
 
 ## 🛠️ Technologies Used
 
@@ -65,6 +78,7 @@ More experiments on advanced ML, hypothesis testing, feature engineering, and mo
 | scikit-learn | Clustering, preprocessing, model training, evaluation |
 | Jupyter Notebook | Interactive computing |
 | openpyxl | Excel file operations |
+| HTML/CSS/JavaScript | Interactive frontend presentation for EXP6 |
 
 ## 🚀 Getting Started
 
