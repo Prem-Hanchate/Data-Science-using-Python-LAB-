@@ -16,6 +16,9 @@ Hands-on laboratory experiments for Data Science using Python. The experiments c
 | **4** | **Advanced Visualizations** | `EXP4/` | Histograms, Scatter plots, Correlation heatmap, Seaborn, Statistical distributions | `EXP4.py`, `EXP4.ipynb`, `*.png` |
 | **5** | **Hybrid Unsupervised + Supervised Learning (Wine Data)** | `EXP5/` | K-Means clustering, PCA, Label generation, Random Forest classification, Model evaluation | `EXP5.py`, `exp5.ipynb`, `wine-clustering.csv`, `wine-supervised.csv` |
 | **6** | **Hypothesis Testing (Interactive HTML)** | `EXP6/` | Two-tailed Z-test interpretation, sample data comparison, interactive topic selection, frontend data presentation | `hypothesis_testing_topics.html`, `sample_data_3_topics.html` |
+| **7** | **A/B Testing** | `EXP7/` | Two-sample t-test, control vs variant comparison, CTR analysis, webpage performance testing | `Experiment_7.ipynb`, `EXP7 - AB Testing.docx` |
+| **8** | **ANOVA** | `EXP8/` | One-way ANOVA, group mean comparison, hypothesis testing for multiple samples | `EXP8 - ANOVA.docx` |
+| **9** | **Data Distribution** | `EXP9/` | Distribution analysis, shape of data, spread, skewness, and frequency interpretation | `EXP9 - Data Distribution.docx` |
 
 ### Experiment Details
 
@@ -62,6 +65,26 @@ Hands-on laboratory experiments for Data Science using Python. The experiments c
 - Main files:
 	- `EXP6/hypothesis_testing_topics.html` (results and decisions)
 	- `EXP6/sample_data_3_topics.html` (sample data and group-wise statistics)
+
+#### 🧪 Experiment 7: A/B Testing
+- Compares control and variant groups using two-sample t-tests
+- Demonstrates click-through rate analysis for a YouTube thumbnail test
+- Demonstrates time-spent comparison for a webpage design test
+- Main files:
+	- `EXP7/Experiment_7.ipynb`
+	- `EXP7/EXP7 - AB Testing.docx`
+
+#### 🧪 Experiment 8: ANOVA
+- Introduces one-way ANOVA for comparing more than two group means
+- Focuses on statistical significance across multiple samples
+- Main file:
+	- `EXP8/EXP8 - ANOVA.docx`
+
+#### 🧪 Experiment 9: Data Distribution
+- Covers basic distribution analysis concepts
+- Focuses on identifying spread, symmetry, and skewness in data
+- Main file:
+	- `EXP9/EXP9 - Data Distribution.docx`
 
 ### 🔜 Coming Soon
 More experiments on advanced ML, feature engineering, and model evaluation.
